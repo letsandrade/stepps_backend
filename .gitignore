@@ -20,3 +20,7 @@ db.sqlite3
 
 # Static files
 staticfiles/
+
+venv
+test_env
+dev_env/
